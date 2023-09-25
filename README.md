@@ -1,7 +1,7 @@
 # Java_WebApp_Base_T9
 > Base project for a Java web application deployed on Tomcat 9
 
-This is the skeleton of a Java web application (with a sample servlet) running on JEE 7 and Tomcat 9
+This is the skeleton of a Java web application (with a sample servlet) running on JEE 8 and Tomcat 9
 
 ## Usage
 
