@@ -55,7 +55,7 @@
             <version>1.0</version>
             <scope>provided</scope>
         </dependency>  
-        <!-- necessario solo per per InitialContext e @Resource -->
+        <!-- necessario principalmente per usare @Resource -->
         <dependency>
             <groupId>javax.annotation</groupId>
             <artifactId>javax.annotation-api</artifactId>
